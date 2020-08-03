@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "projectname": "Community Project",
+        "discription":"This Project allows the public to submit ideas, then an administrator would approve them, one approved the public can vote and comment, I started to wok in this project in a team consist off three team members, I have learnt new style of organising the task by using Agile scrum and implemting the technologies that we learnt such as (Reat, bootstrab,CSS and TDD). ",
+        "github": "",
+        "tasks": [
+            "Design Home Page",
+            "Estimate and Assign Tasks",
+            "View Commets",
+            "Add Comments",
+            "Submit Project"
+       
+        ],
+        "lerning": [
+            "Keep the trello board up to date",
+            "Think about accesability from the begining, and no retro fit it at the end"
+        ],
+        "challenges": [
+            "Scroll bar in the comments",
+            "Learning TDD"
+        ],
+        "technologyUsed": [
+            "React",
+            "Express",
+            "Bootstrab",
+            "React Router",
+            "UUID",
+            "CORS",
+            "node persist",
+            "Body parser"
+         ]
+    },
+    {
+        "id": 2,
+        "projectname": "DKT project",
+        "discription": "Creating Driver knowlage test app consist of 5 questions and once the customer submit an answer, we show wether the answers were correct ot not not then we render the results",
+        "github": "https://github.com/mariamkhoudier/DKT",
+        "tasks": [
+            "Home Page",
+            "View the Question",
+            "Showing answers"
+        ],
+        "lerning": [
+            "Render the data from the server",
+            "Bootstrab"
+        ],
+        "challenges": [
+           "Checking the answers and showing the correct results"
+        ],
+        "technologyUsed": [
+            "React",
+            "Express",
+            "bootstrab"
+        ]
+    },
+    {
+        "id":3,
+        "projectname": "Establish a customer",
+        "discription": "Creating an app to create a customer number by The customer details ",
+        "github": "",
+        "tasks": [
+            "Creating Commponants(Customer details, Home Page, Primary Id ",
+            "Showing the customer details"
+        ],
+        "lerning": [
+            "Create Forms using react",
+            "useState",
+            "useEffect "
+        ],
+        "challenges": [
+            "Showing the customer details"
+        ],
+        "technologyUsed": [
+            "React",
+            "Express"
+        ]
+    },
+    {
+        "id": 4,
+        "projectname": "Coffee Project",
+        "discription": "In thi Project I implemented the HTML and CSS and using the express server and HandleBars to display coffee order details",
+        "github": "",
+        "tasks": [
+            "Home page",
+            "Submit Coffee Page",
+            "View submitted coffee order"
+        ],
+        "lerning": [
+            "Creat a website by using HTML ",
+            "Designing the page by CSS",
+            "Animations using css",
+            "Handle click events",
+            "Create forms and submit them to the server"
+        ],
+        "challenges": [
+           "Changing the colors every time the page change",
+           "Saving the data and render "
+        ],
+        "technologyUsed": [
+            "HTml",
+            "Express",
+            "CSS"
+        ]
+    },
+    {
+        "id":5,
+        "projectname": "Currency Project",
+        "discription": "I worked in this project in a team of four, We were tryin to create an api that allow the user to exchange currencies",
+        "github": "",
+        "tasks": [
+            "We worked on this poject as a team, so did not have specific tasks to work on",
+            "Presented the project to the rest of the teams at the end"
+        ],
+        "lerning": [
+            "Calling externl websites using axios",
+            "Importing data from files"
+        ],
+        "challenges": [
+            "Arraw function"
+        ],
+        "technologyUsed": [
+            "JavaScript" 
+        ]
+    },
+    {
+        "id": 6,
+        "projectname": "Jave Scipt",
+        "discription": "This All the daily and weekly challanges that I done in Java script ",
+        "github": "",
+        "tasks": [
+            "Answering all daily challanges in the moduels "
+            
+        ],
+        "lerning": [
+          "Please check the home page for the lessons that I learn "
+            
+        ],
+        "challenges": [
+            "Arraw function",
+            "json",
+            "For Loop"
+        
+        ],
+        "technologyUsed": [
+            "JavaScript",
+            "Visual studio",
+            "Node"
+            
+        ]
+    }
+]
